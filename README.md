@@ -19,7 +19,7 @@ Some of these icons are original. Some of these were stolen from elsewhere. I di
 | <img src="menu-help.bmp" /> | orig &times;4, ? &times;3, orig &times;2 |
 | <img src="menu-sessions.bmp" /> | orig |
 | <img src="menu-tools.bmp" /> | orig |
-| <img src="menu-view.bmp" /> | orig &times;2, ? &times;4, orig, -, -, orig, ? |
+| <img src="menu-view.bmp" /> | orig &times;3 &times;4, orig, -, -, orig &times;2 |
 | <img src="toolbar-privacy.bmp" /> | orig |
 | <img src="toolbar-standard.bmp" /> | ie &times;12, orig &times;2, ie &times;4 |
 | <img src="toolbar.bmp" /> | ie &times;2, ? &times;2, orig &times;4 |
