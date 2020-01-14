@@ -23,3 +23,5 @@ Some of these icons are original. Some of these were stolen from elsewhere. I di
 | <img src="toolbar-privacy.bmp" /> | orig &times;20, ie (modified) |
 | <img src="toolbar-standard.bmp" /> | ie &times;12, orig &times;2, ie &times;4 |
 | <img src="toolbar.bmp" /> | ie &times;2, ? &times;2, orig &times;4 |
+
+<img src="https://gist.githubusercontent.com/szc126/b50caf5ceb06b50f72ea08ed95eb0051/raw/w9_kmeleon.png" />
